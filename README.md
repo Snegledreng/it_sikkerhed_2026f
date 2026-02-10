@@ -1,5 +1,5 @@
-# it_sikkerhed_2026f
-Dette er et skoleprojekt på Zealand Køge
+# Software sikkerhed 2026f
+Dette er et skoleprojekt på Zealand Næstved
 
 <details>
 <summary>## UniTestingPython</summary>
